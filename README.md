@@ -6,8 +6,8 @@ Many Reader extensions/scripts for C# are made with GetPrivateProfileString or W
 I made it possible with this little script. I hope you like it: If you find any mistake, feel free to message me on Discord: Fabian#3563 (Don't message me for fun!)
 
 ## How to use CustomIniReader?
-```cs
 Example:
+```cs
 CustomIniReader test = new CustomIniReader("test.ini"); // Initialize the class and add the ini file
 Console.WriteLine(test.ReadString("Test", "Example"));
 ```
