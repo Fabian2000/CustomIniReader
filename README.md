@@ -2,7 +2,7 @@
 Custom Ini File Reader written in C# only
 
 ## What is CustomIniReader?
-CustomIniReader is as the name is already called an ini file reader / editor. It contains many great functions to edit ini files. This script can read, write, delete and check if something exist. This script is completely written in C# only
+CustomIniReader is as the name is already called an ini file reader / editor. It contains many great functions to edit ini files. This script can read, write, delete and check if something exists. This script is completely written in C# only
 
 ## Why / When should I use this script?
 Editing ini files is not difficult in C# and there are already many scripts / codes which exist to make the edit easier. The most codes are not made in C# only. Many of them containing GetPrivateProfileString and GetPrivateProfileString from C++ imported. The question is, if you should use this, when it is also possible in just C#. This is what this script can do and it also gives you much more possibilities for editing the ini files
