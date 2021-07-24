@@ -29,7 +29,7 @@ using System.IO;
 using System.Text;
 using System.Globalization;
 
-namespace CustomIniReader
+namespace CustomIniReaderLib
 {
     class CustomIniReader
     {
